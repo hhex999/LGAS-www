@@ -1,0 +1,17 @@
+/* comment */
+body {
+	background-color: #EEDFCC;
+	margin: 5%;
+	padding: 5%;
+	}
+blockquote {
+	font-size: 120%;
+	font-family: serif;
+}
+pre {
+	padding-left: 5%;
+	padding-right: 5%;
+	font-size: 120%;
+	font-family: serif;
+	}
+#footer {font-size: 80%;}
