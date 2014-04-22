@@ -1,5 +1,5 @@
-ЛГАС-www
+LGAS-www
 ========
 
-website of ЛГАС*
+website of LGAS*
 
